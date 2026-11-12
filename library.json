@@ -1,0 +1,16 @@
+{
+    "11097": {
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "issued": false
+    },
+    "11087": {
+        "title": "Wonder's",
+        "author": "J.Simson",
+        "issued": true,
+        "copies": 1,
+        "date_issued": "2026-11-11",
+        "due_date": "2026-11-25",
+        "issued_to": "AI0945"
+    }
+}
